@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  background-color: #E8E8EB;
+}
+
+nav{
+  background-color:#00014a;
+  height: 571px;  
+  width: 180px ;  
+  color: #cfcfcf;
+  letter-spacing: 2px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+
+
+.list-grup{
+  list-style-type: none;  
+  text-align: left;
+  padding-top: 20px;
+}
+
+.list-grup-ayar{
+		padding-top: 400px;
+		list-style-type: none;
+		text-align: left;
+}
+
+nav ul li a{
+		text-decoration:none ;
+		color: #cdcdcd;
+}
+
+.bar{
+  float: 200px;
+  color: black;
+  font-size: 30px;
+}
+
+header{
+  background-color:red;
+  height: 50px;
+  width:100%;
+  font-size:40px;
+  
+}
